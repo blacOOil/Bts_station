@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\bin\Debug\net6.0\Btsprogramme.exe
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\bin\Debug\net6.0\Btsprogramme.deps.json
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\bin\Debug\net6.0\Btsprogramme.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\bin\Debug\net6.0\Btsprogramme.dll
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\bin\Debug\net6.0\Btsprogramme.pdb
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.dll
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\refint\Btsprogramme.dll
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.pdb
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\Btsprogramme.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\week4\Btsprogramme\obj\Debug\net6.0\ref\Btsprogramme.dll
